@@ -1,4 +1,4 @@
-# InterD  
+# InterD
 This is the official pytorch implementation of InterD, a debiasing method for recommendation system. InterD is proposed in the paper:
 
 [Interpolative Distillation for Unifying Biased and Debiased Recommendation]
