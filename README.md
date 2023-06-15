@@ -6,7 +6,7 @@ This is the official pytorch implementation of InterD, a debiasing method for re
 by  Sihao Ding, Fuli Feng, Xiangnan He, Jinqiu Jin, Wenjie Wang, Yong Liao and Yongdong Zhang
 
 Published at SIGIR 2022. If you use this code please cite our paper.
-
+   
 ```
 @inproceedings{InterD,
 author = {Ding, Sihao and Feng, Fuli and He, Xiangnan and Jin, Jinqiu and Wang, Wenjie and Liao, Yong and Zhang, Yongdong},
